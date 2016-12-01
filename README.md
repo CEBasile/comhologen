@@ -1,7 +1,7 @@
 # comhologen
 A complex hologram generator for viewing under laser light.
 
-# TODO
+## TODO
 + Use LodePNG to write out diffraction grating.
 + Use LodePNG to read object image and create objpts vector.
 + Look into FFT
